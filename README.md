@@ -1,6 +1,6 @@
 ***markdown 실습***
 
-![대표이미지](,/디인고1/1.jpg)
+![대표이미지](,/images/1.jpg)
 
 <www.korea.ac.kr>
 
